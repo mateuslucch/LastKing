@@ -7,7 +7,7 @@
 - Move: asdw or arrows
 
 ## Know bugs:
-- Tree tiles disappear in level 4.
+- Tree tiles disappear in level 4 (fixed).
 
 ## Credits:
 - Tileset from [DragonDePlatino](https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181)

@@ -39,7 +39,6 @@ public class MusicPlayer : MonoBehaviour
         myAudioSource.clip = musicList[singleMusic];
         myAudioSource.Play();
         StartCoroutine(PlayNextSong());
-
     }
 
     IEnumerator PlayNextSong()
